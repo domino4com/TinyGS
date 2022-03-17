@@ -7,5 +7,5 @@ Configure TinyGS on the Domino4 xChips:
 ```
 - I use this antenna [HYS 433Mhz 3dbi Omni Antenna 50 Ohm GSM Aerial W/3M(9.8ft) RG58 Coaxial Cable SMA Male Plug and Mounting Bracket](https://www.amazon.com/gp/product/B086YV2QLS) from Amazon, but other antennas would do find. Check out recommendations on the Telegram TinyGS Community chat
 - If you compile using PlatformIO, then change upload speed to `upload_speed = 1000000`
-- 
+- The OLED doesn't work out of the box, so you need to mod the code. I have [reported the problem to TinyGS](https://github.com/G4lile0/tinyGS/issues/146), where I also have posted the temporary solution.
 

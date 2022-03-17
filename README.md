@@ -1,6 +1,6 @@
 # TinyGS
 Configure TinyGS on the Domino4 xChips:
-- Follow the TinyGS.com instructions.
+- Follow the [TinyGS.com] instructions.
 - Configure your own board with this JSON line:
 ```JSON
 {"name":"[433] <YOUR NAME>","aADDR":60,"oSDA":26,"oSCL":27,"oRST":21,"pBut":35,"led":21,"radio":1,"lNSS":15,"lDIO0":33,"lDIO1":21,"lBUSSY":21,"lRST":18,"lMISO":12,"lMOSI":13,"lSCK":14,"lTCXOV":0.0}

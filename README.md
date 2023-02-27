@@ -11,6 +11,7 @@ Configure TinyGS on the Domino4 xChips:
 
 ## Antenna
 - I plan to use this antenna [HYS 433Mhz 3dbi Omni Antenna 50 Ohm GSM Aerial W/3M(9.8ft) RG58 Coaxial Cable SMA Male Plug and Mounting Bracket](https://www.amazon.com/gp/product/B086YV2QLS) from Amazon, but other antennas would do find. Check out recommendations on the Telegram TinyGS Community chat
+- If you use an antenna with SMA, like the one above, you also need an SMA to a U.Fl/IPEX converter, like this one: https://www.amazon.com/gp/product/B01HXU1PKS
 - But build a quadrifilar helicoidal [QFH](#QFH) antenna in the meantime
 
 ### QFH

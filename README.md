@@ -19,4 +19,4 @@
 ### DIY QFH Antenna 
 - Download [OpenSCAD](https://openscad.org)
 - Download [QFH .scad file](https://www.thingiverse.com/thing:634205)
-- Use this [calulator](http://jcoppens.com/ant/qfh/calc.en.php) to get the parameters for your 433MHz version
+- Use this [calculator](http://jcoppens.com/ant/qfh/calc.en.php) to get the parameters for your 433MHz version

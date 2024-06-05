@@ -4,7 +4,7 @@
 - INSTALL TINYGS
 - Follow [This Guide](https://github.com/G4lile0/tinyGS/wiki/Ground-Station-configuration)
 - Make sure you made note of your lat and lon (with 3 decimals ONLY), and your MQTT Credentials.
-- Connect to the **TinyGS** wifi
+- Connect to the **My TinyGS** wifi
 - Open [192.168.4.1](192.168.4.1) in your browser
 - Config as per above, don't worry about board type, but add the below template after you changed your station name:
 

@@ -21,6 +21,15 @@
 ```JSON
 {"name":"[433] <Insert Your Ground Station Name Here>","aADDR":60,"oSDA":17,"oSCL":18,"oRST":-1,"pBut":0,"led":40,"radio":1,"lNSS":35,"lDIO0":34,"lDIO1":0,"lBUSSY":0,"lRST":0,"lMISO":38,"lMOSI":37,"lSCK":36,"lTCXOV":0.0}
 ```
+
+## More setup
+- In Telegram go to **@tinygs_personal_bot**
+- Type "**/weblogin**", this will give you a one liner login (save it)
+- Click on the link and update your settings:
+  - Describe your setup, maybe add some links.
+  - Take a picture of your setup and upload it.
+
+
 ## Antenna
 - Suggested antenna [HYS 433Mhz 3dbi Omni Antenna 50 Ohm GSM Aerial W/3M(9.8ft) RG58 Coaxial Cable SMA Male Plug and Mounting Bracket](https://www.amazon.com/gp/product/B086YV2QLS) from Amazon, but other 433MHz antennas would do fine. Check out recommendations on the Telegram TinyGS Community chat
 - If you use an antenna with SMA, like the one above, you also need [an SMA to a U.Fl/IPEX converter](https://www.amazon.com/gp/product/B01HXU1PKS)

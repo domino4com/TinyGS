@@ -1,7 +1,12 @@
 # TinyGS
 ## New Way since version 2403242
-- Open [The TinyGS Installer](https://installer.tinygs.com/) in Google Chrome (other browsers might be supported)
-- INSTALL TINYGS
+- Make sure you don't have the Serial port open in another app, such as Arduino
+- Plug your core into a PPU (Power & Programmer USB-A) and an ODA (Output Display A)
+- Open [The TinyGS Installer](https://installer.tinygs.com/) in Google Chrome (or Microsoft Edge)
+- Click on "Install". Only release at time of writing is 2403242.
+- A windows comes up where you can pair (if not already paired) your USB Device. Click "Connect"
+- Click on "INSTALL TINYGS", optionally check Erase Device, then "NEXT", then "INSTALL"
+- After install is completed, you can optionally click "NEXT", and then "LOGS & CONSOLE", then click "RESET DEVICE"
 - Follow [This Guide](https://github.com/G4lile0/tinyGS/wiki/Ground-Station-configuration)
 - Make sure you made note of your lat and lon (with 3 decimals ONLY), and your MQTT Credentials.
 - Connect to the **My TinyGS** wifi

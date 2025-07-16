@@ -17,7 +17,7 @@
 ```JSON
 {"name":"[433] <Insert Your Ground Station Name Here>","aADDR":60,"oSDA":26,"oSCL":27,"oRST":-1,"pBut":0,"led":0,"radio":1,"lNSS":15,"lDIO0":33,"lDIO1":0,"lBUSSY":0,"lRST":0,"lMISO":12,"lMOSI":13,"lSCK":14,"lTCXOV":0.0}
 ```
-### CWA V2 - Still in Prototype - not confirmed working
+### CWA V2
 ```JSON
 {"name":"[433] <Insert Your Ground Station Name Here>","aADDR":60,"oSDA":17,"oSCL":18,"oRST":-1,"pBut":0,"led":40,"radio":1,"lNSS":35,"lDIO0":34,"lDIO1":0,"lBUSSY":0,"lRST":0,"lMISO":38,"lMOSI":37,"lSCK":36,"lTCXOV":0.0}
 ```

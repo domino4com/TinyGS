@@ -1,7 +1,12 @@
 # TinyGS
+<img src="Config_TinyGS.png" align=right width=500>
+
+
 ## New Way since version 2403242
 - Make sure you don't have the Serial port open in another app, such as Arduino
-- Plug your core into a PPU (Power & Programmer USB-A) and an ODA (Output Display A)
+- Plug your core into a PPU (Power & Programmer USB-A). If you have a CWA_v2, you can also plug into your computer via USB-C.
+- Plug in an ODA (Output Display A)
+- Power up and if you are using USB-C, put the core in download mode (Press and keep holding ▶ down, Press ↻, Release ▶)
 - Open [The TinyGS Installer](https://installer.tinygs.com/) in Google Chrome (or Microsoft Edge)
 - Click on "**Install**". Only release at time of writing is 2403242.
 - A windows comes up where you can pair (if not already paired) your USB Device. Click "**Connect**"
@@ -11,7 +16,7 @@
 - Make sure you made note of your **latitude** and **longitude** (with 3 decimals ONLY), and your **MQTT Credentials**.
 - Connect to the **My TinyGS** wifi
 - Open [192.168.4.1](192.168.4.1) in your browser
-- Config as per above, don't worry about board type, but add the below template after you changed your station name:
+- Config as per above, set the board type to "Custom...", but add the below template after you changed your station name:
 
 ### CWV V4
 ```JSON
